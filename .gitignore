@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.docx
+/Section 02/First Program/.vs/First Program
+/Section 02/Pointers/Pointers/.vs/Pointers
+/Section 02/Pointers/Pointers/Pointers/x64/Debug
+/Section 02/Pointers/Pointers/x64/Debug
+/Section 02/Ref Vs Ptr/SwapFunction/.vs/SwapFunction
+/Section 02/Ref Vs Ptr/SwapFunction/SwapFunction/x64/Debug
+/Section 02/Ref Vs Ptr/SwapFunction/x64/Debug
+/Section 02/Reference/Reference/.vs/Reference
+/Section 02/Reference/Reference/Reference/x64/Debug
+/Section 02/Reference/Reference/x64/Debug
