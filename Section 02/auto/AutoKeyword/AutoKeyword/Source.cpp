@@ -30,5 +30,11 @@ int main() {
 	//Deduced to a pointer. * is not necessary
 	auto *ptr = &x;
 
+	auto list = { 1,2,3,4,5 };
+	cout << "list: " << typeid(list).name() << endl;
+
+
+
+
 	return 0;
 }
